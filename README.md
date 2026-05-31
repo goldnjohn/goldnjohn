@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>👋 Hey, I'm Vijaya Chodagiri</b>
+  <b>👋 Hey, I'm goldnjohn</b>
   <br>
   <span title="Videographer">📹</span>
   <span title="Code Automator">🔁</span>
